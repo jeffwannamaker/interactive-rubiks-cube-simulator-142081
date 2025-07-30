@@ -1,1 +1,3 @@
-# interactive-rubiks-cube-simulator-142081
+# Project Repository
+
+This is the initial README file for the project.
